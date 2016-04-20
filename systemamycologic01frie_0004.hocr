@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemamycologic01frie_0004.png"; bbox 0 0 1861 3333; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 71 205 1254 392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 71 205 1254 392">
+     <span class='ocr_line' id='line_1_1' title="bbox 249 205 1076 287; baseline -0.035 1"><span class='ocrx_word' id='word_1_1' title='bbox 249 218 559 287; x_wconf 62' lang='lat' dir='ltr'>Heleased</span> <span class='ocrx_word' id='word_1_2' title='bbox 607 215 773 278; x_wconf 72' lang='lat' dir='ltr'>from</span> <span class='ocrx_word' id='word_1_3' title='bbox 822 205 1076 273; x_wconf 71' lang='lat' dir='ltr'>[ibrary</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 71 283 1254 392; baseline -0.049 -2"><span class='ocrx_word' id='word_1_4' title='bbox 71 314 448 392; x_wconf 56' lang='lat' dir='ltr'>‘ezchustural</span> <span class='ocrx_word' id='word_1_5' title='bbox 475 310 698 373; x_wconf 69' lang='lat' dir='ltr'>Society</span> <span class='ocrx_word' id='word_1_6' title='bbox 722 302 780 358; x_wconf 66' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_7' title='bbox 809 299 937 352; x_wconf 75' lang='lat' dir='ltr'>New</span> <span class='ocrx_word' id='word_1_8' title='bbox 961 288 1117 346; x_wconf 59' lang='lat' dir='ltr'>York,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1147 283 1254 338; x_wconf 63' lang='lat' dir='ltr'>Erae.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 119 344 1536 2899">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 119 344 1536 2899">
+     <span class='ocr_line' id='line_1_3' title="bbox 119 344 1536 2899"><span class='ocrx_word' id='word_1_10' title='bbox 119 344 1536 2899; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
